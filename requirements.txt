@@ -1,1 +1,5 @@
 virtualenv
+flask
+Flask-SQLAlchemy
+flask-cors
+pymysql
